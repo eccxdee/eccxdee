@@ -11,7 +11,7 @@ hi, i'm deerick 🖖
 
 💻 Estudando Desenvolvimento Web...
 
-🧙‍ um bom café da tarde, um jogo, música e um bom anime 👍😼
+🧙‍ um bom café da tarde, um bom anime, músicas e um jogo 👍😼
    
   
   
