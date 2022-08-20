@@ -18,7 +18,6 @@ hi, i'm deerick 🖖
   
   
   
-  
 
 ```
 
