@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/mrsmiwwa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eccxdee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccxdee&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <div align="left">
   <h1>Hello world.. i'm deerick 🖖 ☕💻</h1>
   <img align="right" height="189" src="https://i0.wp.com/www.fastgamsat.com/wp-content/uploads/Yuki-Nagato-typing-and-coding-really-quickly-on-laptop-Suzumiya-Haruhi-no-Yuuutsu-FastGAMSAT.gif">
@@ -35,6 +41,12 @@ coming soon..
 
 <div align="left">
 
+<div align="center">
+  <a href="https://github.com/mrsmiwwa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eccxdee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccxdee&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 </div>
 
 </div>
