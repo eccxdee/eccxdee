@@ -1,6 +1,7 @@
 <div align="left">
   <h1>Hello world.. i'm deerick 🖖 ☕💻</h1>
-  <img align="right" height="189" src="https://i0.wp.com/www.fastgamsat.com/wp-content/uploads/Yuki-Nagato-typing-and-coding-really-quickly-on-laptop-Suzumiya-Haruhi-no-Yuuutsu-FastGAMSAT.gif">
+  <img align="right" height="209" src="https://i.pinimg.com/originals/71/bf/92/71bf923f5e5ada9e6adb2c6f2068368d.gif">
+
   
 </div align="center">
 
