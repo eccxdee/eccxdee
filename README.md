@@ -12,7 +12,7 @@ hi, i'm deerick 🖖
 
 💻 Estudando Desenvolvimento Web...
 
-🧙‍ estudo, jogos, anime, música e um velho café da tarde 👍😼
+🧙‍  jogos, anime, estudo, música e um velho café da tarde 👍😼
    
   
   
