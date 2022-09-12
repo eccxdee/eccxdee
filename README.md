@@ -11,8 +11,8 @@
 hi, i'm deerick 🖖
 
 💻 estudo programação sozinho através de cursos online desde o final de
-2021. ainda sem experiência, mas sempre aprendendo e buscando conhecimento
-para me tornar um desenvolvedor full stack.
+2021. ainda sem experiência, mas sempre aprendendo e buscando
+conhecimento para me tornar um desenvolvedor full stack.
 
 🧙‍ sou amante da arte no geral. gosto de jogar, ver anime, ouvir música
 e tomar um café de vez em quando 👍😼 ☕
