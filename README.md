@@ -24,7 +24,7 @@ animes, música e de vez em quando um café ☕ 👍😎
 
 ```
 
-</div>
+
 
 <div align="center"> 
   
@@ -45,6 +45,6 @@ animes, música e de vez em quando um café ☕ 👍😎
 
 </div>
   
-</div>
+
 
 </div>
