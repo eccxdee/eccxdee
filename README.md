@@ -25,10 +25,6 @@ hi, i'm deerick 🖖
 
 <div align="center"> 
   
-## 🐱‍💻 Hard skills 
-
-coming soon..
-
 ### 📚 Studying
 
 <img  src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-javascript.svg" width= 50>
