@@ -10,7 +10,7 @@
 ```diff
 hi, i'm deerick 🖖
 
-💻 Estudando Desenvolvimento Web...
+💻 estudo programação sozinho através de cursos online desde o final de 2021. ainda sem experiência, mas sempre aprendendo e buscando conhecimento para conseguir uma oportunidade de ingressar no mercado de trabalho.
 
 🧙‍  jogos, anime, estudo, música e um velho café da tarde 👍😼
    
