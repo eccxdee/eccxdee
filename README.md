@@ -24,7 +24,7 @@ animes, música e de vez em quando um café ☕ 👍😎
 
 ```
 
-
+</div>
 
 <div align="center"> 
   
@@ -44,7 +44,17 @@ animes, música e de vez em quando um café ☕ 👍😎
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccxdee&layout=compact&langs_count=8&theme=dark"/>
 
 </div>
-  
 
+<div align="center">
+
+### 📩 contato
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://www.linkedin.com/in/deerick-maciel-473312214/)](https://www.linkedin.com/in/deerick-maciel-473312214/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:deerickmaciel@gmail.com)](mailto:deerickmaciel@gmail.com)
+<br />
+<br />
 
 </div>
+
+
+
