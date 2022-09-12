@@ -14,7 +14,7 @@ hi, i'm deerick 🖖
   ainda sem experiência, mas sempre aprendendo e buscando conhecimento para conseguir
   uma oportunidade de ingressar no mercado de trabalho.
 
-🧙‍  jogos, anime, estudo, música e um velho café da tarde 👍😼
+🧙‍  sou amante da arte no geral. gosto de jogar, ver anime, ouvir música e tomar um café de vez em quando 👍😼
    
   
   
