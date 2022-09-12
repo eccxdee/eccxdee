@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>hello world.. i'm deerick 🖖 ☕💻</h1>
+  <h1>hello world.. i'm deerick 🖖 💻</h1>
   <img align="right" height="204"src="https://i.pinimg.com/originals/71/bf/92/71bf923f5e5ada9e6adb2c6f2068368d.gif">
 
   
@@ -15,7 +15,7 @@ hi, i'm deerick 🖖
   uma oportunidade de ingressar no mercado de trabalho.
 
 🧙‍ sou amante da arte no geral. gosto de jogar, ver anime, ouvir música e tomar um café 
-  de vez em quando 👍😼
+  de vez em quando 👍😼 ☕
    
   
   
