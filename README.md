@@ -24,7 +24,7 @@ Hi, i'm deerick
 
 ## [Deerick Maciel](https://github.com/eccxdee) | Desenvolvedor Fullstack 💻
 
-- 👨🏾‍🎓 *Estudante de TI*
+- *Estudante de TI*
  
 <h2 align = "center">• Meu Portifolio Online •</h2>
 
