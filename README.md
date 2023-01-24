@@ -9,7 +9,8 @@
 
 Hi, i'm deerick 
 
-💻 estudo programação sozinho desde o final de 2021. mas sempre estudando
+💻
+  estudo programação sozinho desde o final de 2021. sempre estudando
   e buscando conhecimento para me tornar um desenvolvedor full stack.
 
 🧙‍ sou amante da arte e do audiovisual, costumo jogar,
